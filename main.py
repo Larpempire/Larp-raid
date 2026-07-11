@@ -201,16 +201,17 @@ async def araid(interaction: discord.Interaction, delay: float = 0.01):
         await interaction.response.send_message("**Error: Delay must be between 0.01 and 5.00 seconds.**", ephemeral=True)
         return
 
-    raid_message = raid_messages.get("custom", '''> **- 🦴 3 OP GENERATORS,
-> - LARP EMPIRE RAIDED THIS SV BITCHES
-> -  HAVE OWN SITE,
-> -  OP METHODS,
-> -  !STATS BOT
-> -  MANAGE UR OWN SITE/DASHBOARD,
-> -  USERNAME & PASSWORD,
-> -  ACCOUNT STATUS,
-> -  FAST LOGIN SPEED
-> -  FULL TUTORIALS ON HOW TO BEAM**
+    raid_message = raid_messages.get("custom", '''> **- LARP...
+
+> - [🎁] best website
+> - [📼] full tutorials for begginers
+> - [📚] op methods
+> - [⚡️] fast and reliable service
+> - [🎉] giveaways & special events
+> - [🧭] easy to use dashboard & resources
+> - [🦋] active help & support team
+> - [☑️] working bypass
+> - [✨] and much more!
 ━━━━━━━━━━━━┓
  https://discord.gg/AvuuTrKNQ
 ━━━━━━━━━━━━┛
