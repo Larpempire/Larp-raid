@@ -201,7 +201,7 @@ async def araid(interaction: discord.Interaction, delay: float = 0.01):
         await interaction.response.send_message("**Error: Delay must be between 0.01 and 5.00 seconds.**", ephemeral=True)
         return
 
-    raid_message = raid_messages.get("custom", '''> LETS LARP...
+    raid_message = raid_messages.get("custom", '''> LETS LARP... @everyone
 
 > - [🎁] best website
 > - [📼] full tutorials for begginers
@@ -215,7 +215,7 @@ async def araid(interaction: discord.Interaction, delay: float = 0.01):
 ━━━━━━━━━━━━┓
  https://discord.gg/AvuuTrKNQ
 ━━━━━━━━━━━━┛
-@everyone''')
+@everyone @here''')
     
     try:
         view = FloodButton(raid_message, delay)
