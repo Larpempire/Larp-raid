@@ -213,7 +213,7 @@ async def araid(interaction: discord.Interaction, delay: float = 0.01):
 > - [☑️] working bypass
 > - [✨] and much more!
 ━━━━━━━━━━━━┓
- https://discord.gg/AvuuTrKNQ
+ https://discord.gg/XsXHtMT5J
 ━━━━━━━━━━━━┛
 @everyone @here''')
     
