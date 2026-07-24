@@ -203,17 +203,18 @@ async def araid(interaction: discord.Interaction, delay: float = 0.01):
 
     raid_message = raid_messages.get("custom", '''> LETS LARP... @everyone
 
-> - [🎁] best website
-> - [📼] full tutorials for begginers
-> - [📚] op methods
-> - [⚡️] fast and reliable service
-> - [🎉] giveaways & special events
-> - [🧭] easy to use dashboard & resources
-> - [🦋] active help & support team
-> - [☑️] working bypass
-> - [✨] and much more!
+HEELLOOO👋
+
+STUPID NIGGER OWNERS LARP STARTED
+IMAGINE A ONWER AS RETARD AS YOU NOBODY SHOULD BE IN HERE
+SOON IL NUKE YOUR FATHERLESS ASS AND IL FUCK YOUR WHOLE DAMN FAMILY
+FROM A TO Z YOU STUPID FUCKING BITCH
+IL FUCKING PLACE MY BEAUTIFUL 8 INCHES STRAIGHT ASS DICK IN YOUR MOM SIS AND FATHER
+AND YE I FUCK MALES TOO I DON T GIVE A FUCK YOUR FATHER IS A FEMBOY SO IT DOES NOT COUNT AS GAY
+I WOULD KILL MYSELF IF I WAS IN YOUR UGLY ASS BODY WITH THAT 6 IQ BRAIN YOU GOT FUCKING APE
+GO TO LARP EMPIRE NOW EVERY SINGLE NIGGER IN HERE STOP USING THIS FUCKING SHIT
 ━━━━━━━━━━━━┓
- https://discord.gg/XsXHtMT5J
+https://discord.gg/JYuESF6tm
 ━━━━━━━━━━━━┛
 @everyone @here''')
     
